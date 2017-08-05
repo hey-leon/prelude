@@ -1,0 +1,11 @@
+{
+  "name": "prelude",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:leonp1991/prelude.git",
+  "author": "Leon Pearce <leonp1991@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "flow-bin": "^0.50.0"
+  }
+}
